@@ -108,19 +108,19 @@ Happy Coding! 💻✨
     <h2>Registration Form</h2>
     <form action="#" method="post">
         <label for="name">Full Name:</label>
-        <input type="text" id="name" name="name" placeholder="Enter your full name" required>
+        <input type="text" id="name" name="name" value="Onesmus Thuo" required>
         <br><br>
         
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        <input type="email" id="email" name="email" value="Onesmust40@gmail.com" required>
         <br><br>
         
         <label for="password">Password:</label>
-        <input type="password" id="password" name="password" placeholder="Enter your password" required>
+        <input type="password" id="password" name="password" value="Th9459@93" required>
         <br><br>
         
         <label for="dob">Date of Birth:</label>
-        <input type="date" id="dob" name="dob" required>
+        <input type="date" id="dob" name="dob" value="2025-04-01" required>
         <br><br>
         
         <label for="gender">Gender:</label>
